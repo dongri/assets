@@ -1,0 +1,14 @@
+[
+    {
+        "ticker": "btc",
+        "hold": 0.5
+    },
+    {
+        "ticker": "eth",
+        "hold": 1
+    },
+    {
+        "ticker": "etc",
+        "hold": 10
+    }
+]
